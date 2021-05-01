@@ -1,0 +1,12 @@
+//// STEPS to follow to implement Redux in react app.
+
+1. Import React-Reduc / redux
+2. Create Action method
+3. Create Reducer for the Action
+4. Create a root reducer for the reducers developed
+5. Create Store 
+6. Wrap the Provider around the React DOM
+7. Create Connect HOC in the component for State and Dispatch
+
+Step 2,3,4 and 7 will be repeated number of times actions and reducers are created.
+
