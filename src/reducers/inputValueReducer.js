@@ -1,7 +1,7 @@
 import { INPUT_VALUE } from "../actions/actionTypes";
 
 const initialState = {
-  data: "EE saaala Cup Naamde"
+  data: ""
 };
 
 const inputValueReducer = (state = initialState, action = {}) => {
