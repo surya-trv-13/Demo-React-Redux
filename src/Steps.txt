@@ -1,6 +1,6 @@
 //// STEPS to follow to implement Redux in react app.
 
-1. Import React-Reduc / redux
+1. Import React-Redux / redux
 2. Create Action method
 3. Create Reducer for the Action
 4. Create a root reducer for the reducers developed
